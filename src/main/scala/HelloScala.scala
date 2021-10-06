@@ -1,11 +1,5 @@
 object HelloScala {
   def main(args: Array[String]): Unit = {
-    /**
-     *
-     * @param name hello
-     * @param age hi
-     * @return
-     */
 //    def fun01(name: String, age: Int) = {
 //      if (age < 18) {
 //        name + age
@@ -24,10 +18,6 @@ object HelloScala {
       () => {
         println("Apple")
       }
-
-
-
-
   }
 }
 
